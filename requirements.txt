@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
-requests
-matplotlib
-plotly
+streamlit
+tensorflow
+opencv-python
+librosa
+
