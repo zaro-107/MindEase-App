@@ -1,8 +1,8 @@
 streamlit
-pandas
-numpy
-streamlit
 tensorflow
 opencv-python
 librosa
-
+numpy
+pandas
+scikit-learn
+matplotlib
